@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mateusfbsoares.visitor-badge&left_color=gray&right_color=blue)
 
-I'm a Computer Engineering student and artist in the making.
+I'm a Computer Engineering student, aspiring entrepeneur and artist in the making.
 
-Find more at mateusfbsoares.com
+Find more at [mateusfbsoares.com](https://mateusfbsoares.com)
 
 <!--
 **mateusfbsoares/mateusfbsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
