@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mateusfbsoares.visitor-badge&left_color=gray&right_color=blue)
 
-I'm a Computer Engineering student, aspiring entrepeneur and artist in the making.
+I'm a Computer Engineering student at [CIn - UFPE](https://cin.ufpe.br)
 
 Find more at [mateusfbsoares.com](https://mateusfbsoares.com)
 
