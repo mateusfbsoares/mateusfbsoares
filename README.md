@@ -3,7 +3,7 @@
 
 I'm a Computer Engineering student at [CIn - UFPE](https://cin.ufpe.br)
 
-Find more at [mateusfbsoares.com](https://mateusfbsoares.com)
+Find more at [bymateus.com](https://bymateus.com)
 
 <!--
 **mateusfbsoares/mateusfbsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
